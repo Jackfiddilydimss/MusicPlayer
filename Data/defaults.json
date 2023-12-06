@@ -1,0 +1,12 @@
+{
+    "Initialised": false,
+    "PlaylistPath": "",
+    "Shuffling": false,
+    "Looping": false,
+    "SongInfo": {
+        "ID": 0,
+        "SongName": "",
+        "SongArtist": "",
+        "SongLength": 0
+    }
+}
